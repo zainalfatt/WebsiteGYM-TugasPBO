@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.hero {
+    padding: 50px;
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+}
+.trivia-section {
+    padding: 20px;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
