@@ -1,6 +1,6 @@
 # WebsiteGYM-TugasPBO
  
-## Anggota Kelomppk:
+## Anggota Kelompok 4:
 - Wahid Sandy Pujo Dzulhijayanto (32602300015)
 - Zainal Fattah (32602300013)
 - Akhmad Syaifudin (32602300014)
