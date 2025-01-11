@@ -7,3 +7,6 @@
 
 ## Attention
 Sebaiknya menggunakan File ZIP jangan clone folder GYM nya karena ada file & folder konfigurasi yang tidak dapat di upload ke github.
+
+## Documentasi UML
+Link: [https://github.com/zainalfatt/WebsiteGYM-TugasPBO/blob/main/Document%20UML%20Project%20Website%20GYM.pdf]
